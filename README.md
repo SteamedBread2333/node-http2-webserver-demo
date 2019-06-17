@@ -1,2 +1,3 @@
-# node-http2-webserver-demo
-a webserver-demo based on nodejs &amp; http2
+# HTTP2 and nodejs
+
+A simple shot on how to implement http2 with nodejs
